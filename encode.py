@@ -1,4 +1,4 @@
-# pip install cryptograph
+# pip install cryptography
 from cryptography.fernet import Fernet 
 import time
 import click
